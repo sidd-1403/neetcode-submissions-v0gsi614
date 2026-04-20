@@ -73,5 +73,3 @@ Focus on **understanding patterns** instead of memorizing solutions.
 **Daily improvement → Strong problem solving ability.**
 
 ---
-
-*Generated using NeetCode GitHub Sync*
